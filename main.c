@@ -11,7 +11,7 @@ void main (void) {
   sfr_CLK.CKDIVR.byte = 0x00;
     
   // init UART for 19.2kBaud
-  UART_begin(9600);
+  uart__begin(9600);
   
     
   // main loop
