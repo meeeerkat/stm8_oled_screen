@@ -1,3 +1,6 @@
 [submodule "uart"]
 	path = uart
 	url = git@github.com:meeeerkat/stm8_uart.git
+[submodule "i2c"]
+	path = i2c
+	url = git@github.com:meeeerkat/stm8_i2c.git
